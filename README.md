@@ -1,3 +1,11 @@
+ Shop Node.JS Serverless EPAM application
+
+ ## Links:
+ * [CloudFront URL](https://d15gvf50we2abq.cloudfront.net/)
+ * [S3-website](http://my-first-aws-shop-bucket.s3-website-us-east-1.amazonaws.com/) 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
