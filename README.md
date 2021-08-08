@@ -1,8 +1,8 @@
  Shop Node.JS Serverless EPAM application
 
  ## Links:
- * [CloudFront URL](https://d15gvf50we2abq.cloudfront.net/)
- * [S3-website](http://my-first-aws-shop-bucket.s3-website-us-east-1.amazonaws.com/)  
+ * [CloudFront URL](https://ddmfi45vfj3f1.cloudfront.net/)
+ * [S3-website](http://my-first-aws-shop-bucket.s3-website-eu-west-1.amazonaws.com/ )  
 
 Автоматическое создание CloudFront: `serverless.yml`.
 Запустить:
